@@ -1,6 +1,7 @@
 # LineFollowingRobot
 Arduino Based Lined Following Robot Having 4 Sensors For Better Accuracy. Its a Simple Project Project with High Probabilty of Running on a black line and stop on White surface.
 
+#!!! Before Uploading code to Arduino Makesure You Have installed AFmotor.h Library to your Arduino IDE.
 
 ## Pin Configuration.
 ### Connect Sensor 1 Data Pin or AO pin to Analog0 In arduino
